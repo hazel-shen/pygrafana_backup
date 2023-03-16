@@ -7,6 +7,8 @@ Python based utility designed to backup/restore Grafana dashboards via API.
 ```
 python >= python3.7
 requests (script was created using 2.23.0)
+
+pip install -r requirements.txt
 ```
 
 ## Usage
